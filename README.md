@@ -65,27 +65,27 @@ My expertise includes proficiency in languages such as HTML, CSS, JavaScript, as
   <tr>
       <td align="center" width="96">
       <a href="https://docs.spring.io/spring-boot/docs/current/reference/htmlsingle/">
-        <img src="https://dzone.com/storage/temp/12434118-spring-boot-logo.png" width="48" height="48" alt="Springboot" />
+        <img src="https://cdn1.iconfinder.com/data/icons/programing-development-8/24/react_logo-512.png" width="48" height="48" alt="ReactJS" />
       </a>
-      <br>Springboot
+      <br>React JS
     </td>
     <td align="center" width="96">
       <a href="https://hibernate.org/orm/documentation/6.1/">
-        <img src="https://img.icons8.com/color/344/hibernate--v1.png" width="48" height="48" alt="Hibernate" />
+        <img src="https://assets.stickpng.com/images/5848309bcef1014c0b5e4a9a.png" width="48" height="48" alt="Redux" />
       </a>
-      <br>Hibernate
+      <br>Redux
     </td>
      <td align="center" width="96">
       <a href="#bootstrap">
-        <img src="https://img.icons8.com/color/344/java-coffee-cup-logo--v1.png" width="48" height="48" alt="Java" />
+        <img src="https://seeklogo.com/images/N/nodejs-logo-FBE122E377-seeklogo.com.png" width="48" height="48" alt="NodeJS" />
       </a>
-      <br>Java
+      <br>NodeJS
     </td>
      <td align="center" width="96">
       <a href="#js">
-        <img src="https://www.logo.wine/a/logo/MySQL/MySQL-Logo.wine.svg" width="48" height="48" alt="Mysql" />
+        <img src="https://www.pngall.com/wp-content/uploads/13/Mongodb-PNG-Image-HD.png" width="48" height="48" alt="Mongodb" />
       </a>
-      <br>MySQL
+      <br>MongoDb
     </td>
    
   </tr>
@@ -118,9 +118,9 @@ My expertise includes proficiency in languages such as HTML, CSS, JavaScript, as
    <tr>
       <td align="center" width="96">
       <a href="#ubuntu" >
-        <img src="https://img.icons8.com/ios-filled/344/github.png" width="48" height="48" alt="ubuntu" />
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/1280px-Bootstrap_logo.svg.png" width="48" height="48" alt="bootstrap" />
       </a>
-      <br>Ubuntu
+      <br>Bootstrap
     </td>
       <td align="center" width="96">
       <a href="#git" >
