@@ -6,7 +6,10 @@
 <img src="https://readme-typing-svg.herokuapp.com?size=26&duration=2500&lines=Software+Engineer;backened+developer;fullstack+developer" > 
 </p> -->
 
-<h3 align="center">A Passionate Java Backend Developer with hands-on experience in designing, developing, and maintaining projects. Adept at learning, unlearning, and relearning.</h3>
+<h3 align="center">I am a web developer with a passion for creating functional, user-friendly, and visually appealing websites.
+My expertise includes proficiency in languages such as HTML, CSS, JavaScript, as well as React JS framework.
+                        I have a strong attention to detail and a keen eye for design, which allows me to create websites that not only function seamlessly but also look great.I believe in continuous learning and keeping up with the latest trends and technologies in web development. When I am not coding, you can find me exploring new places as well as playing guitar.
+                        Thank you for visiting my portfolio, and I look forward to the opportunity to work with you!</h3>
 
 
 
@@ -16,35 +19,21 @@
 
 <img align="center" alt="Coding" width="100%" src="https://camo.githubusercontent.com/2b526261e88935a5671e4a20a23e230c06dc6e9192706fa9d40190bf0f58a050/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f66612f37622f34622f66613762346264633362326637336537343965356332633634366434616531332e676966">
 
-- 🔭 I’m currently working on   Backend and Frontend technologies 😅
-- 🌱 I’m currently learning     *SQL, JDBC, LLD, AWS,Springboot* at Masai School.
-- 💬 Ask me about     *Java, JavaScript, HTML, CSS*
-- 👨‍💻 This is [My Portfolio](https://akashr1122.github.io/)
--  📄 This is [My Resume](https://drive.google.com/file/d/1mL-lyBw2kcTrJNR8K3bR_qylV8jO2ofM/view?usp=share_link)
-- 📫 How to reach me:   *akashsingh4321a@gmail.com*
+- 🔭 I’m currently working on Frontend and Backend Technology 😅
+- 🌱 I’m currently learning     *React Redux HTML CSS JavaScript Mongodb NodeJS ExpressJS Bootstrap*.
+- 💬 Ask me about     *React, JavaScript, HTML, CSS*
+- 👨‍💻 This is [My Portfolio]()
+-  📄 This is [My Resume]()
+- 📫 How to reach me:   *djoshdsouza5@gmail.com*
 
 
 
 
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<!-- <img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" /> -->
-
-
-<!-- <img align="right"  src="https://media3.giphy.com/media/RbDKaczqWovIugyJmW/200.gif"> -->
-
-
-<!--   <summary><b style ="text-align :center">⚡ Recent GitHub Activity</b></summary> -->
-<!--   <br/> -->
-
-<!-- graph -->
-<!--    <a href="https://github.com/Piyushfromit"><img alt="Piyush's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Piyushfromit&custom_title=Piyush's%20Contribution%20Graph&theme=react-dark" /></a> -->
   <br/>
 
-<!-- <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> -->
-
-<p align="center"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Akashr1122" alt="Akash" /></a></p>
+<p align="center"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dan-josh" alt="Daniel" /></a></p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
@@ -59,11 +48,11 @@
 
  <h2> 📊 Github Stats ....</h2>
 <p align="center">
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=akashr1122&theme=solarized_dark">
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=akashr1122&theme=solarized_dark">
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=akashr1122&theme=solarized_dark">
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=akashr1122&theme=solarized_dark">
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=akashr1122&theme=solarized_dark&utcOffset=8">
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dan-josh&theme=solarized_dark">
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=dan-josh&theme=solarized_dark">
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=dan-josh&theme=solarized_dark">
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=dan-josh&theme=solarized_dark">
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=dan-josh&theme=solarized_dark&utcOffset=8">
 	
 </p>
 
@@ -161,8 +150,8 @@
 ## 📊 My Github Stats
 
    <p align="center" style="margin-right:0px;padding-right:0px">
-<img src="https://github-readme-stats.vercel.app/api?username=akashr1122&theme=algolia">
-<img alt="streak stats" src="https://github-readme-streak-stats.herokuapp.com/?user=akashr1122&theme=algolia" />
+<img src="https://github-readme-stats.vercel.app/api?username=dan-josh&theme=algolia">
+<img alt="streak stats" src="https://github-readme-streak-stats.herokuapp.com/?user=dan-josh&theme=algolia" />
 </p>
 
 
@@ -171,13 +160,13 @@
 ## Connect with me:
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/akash-roy-30b82a237/"><img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=ffffff"/></a>
+  <a href="https://www.linkedin.com/in/daniel-joshua-d-souza-59a8b6186/"><img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=ffffff"/></a>
 
 </p>
 
 ## ❤ Views and Followers
 
-<p align='center'> <img src="https://komarev.com/ghpvc/?username=akashr1122&label=Profile%20views&color=blueviolet&style=plastic" width="160px" alt="views" /> </p>
+<p align='center'> <img src="https://komarev.com/ghpvc/?username=dan-josh&label=Profile%20views&color=blueviolet&style=plastic" width="160px" alt="views" /> </p>
 
 
 <h2 align='left'>Thank You ❤</h2>
