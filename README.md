@@ -71,7 +71,7 @@ My expertise includes proficiency in languages such as HTML, CSS, JavaScript, as
     </td>
     <td align="center" width="96">
       <a href="https://hibernate.org/orm/documentation/6.1/">
-        <img src="https://assets.stickpng.com/images/5848309bcef1014c0b5e4a9a.png" width="48" height="48" alt="Redux" />
+        <img src="[https://assets.stickpng.com/images/5848309bcef1014c0b5e4a9a.png](https://seeklogo.com/images/R/redux-logo-9CA6836C12-seeklogo.com.png)" width="48" height="48" alt="Redux" />
       </a>
       <br>Redux
     </td>
